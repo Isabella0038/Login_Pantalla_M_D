@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\INICIO\bin\Debug\INICIO.exe.config
+C:\Users\Asus\source\repos\INICIO\bin\Debug\INICIO.exe
+C:\Users\Asus\source\repos\INICIO\bin\Debug\INICIO.pdb
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.frmInicio.resources
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.Properties.Resources.resources
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.registro.resources
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.exe
+C:\Users\Asus\source\repos\INICIO\obj\Debug\INICIO.pdb
